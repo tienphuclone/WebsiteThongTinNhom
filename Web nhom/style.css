@@ -1,0 +1,43 @@
+html {
+    background-color: #000;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#slider img {
+    width: 100%;
+}
+
+#about {
+    margin-top: 46px;
+    color: pink;
+    font-size: 20px;
+    height: 400px;
+}
+
+.Team-name {
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 1.5;
+    text-align: center;
+    letter-spacing: 4px;
+    color: #f23f81;
+}
+
+#about .member-list {
+    padding: 32px 0;
+    margin-top: 36px;
+}
+
+#about .member-item {
+    width: 33.333333%;
+    float: left;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.member-item .member-img {
+    width: 50%;
+}
+
